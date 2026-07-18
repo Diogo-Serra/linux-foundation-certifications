@@ -7,4 +7,7 @@ My Linux Foundation certifications and course completion badges.
 ## Certifications
 
 ### Introduction to Linux (LFS101)
-[View certification](https://www.credly.com/badges/77e64bab-647b-437f-8a6e-c030a24f4415)
+[View certification](linux-foundation-certifications/certifications/LFS101.pdf)
+
+### Introduction to DevSecOps for Managers (LFS180)
+[View certification](linux-foundation-certifications/certifications/LFS180.pdf)
