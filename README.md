@@ -11,3 +11,6 @@ My Linux Foundation certifications and course completion badges.
 
 ### Introduction to DevSecOps for Managers (LFS180)
 [View certification](linux-foundation-certifications/certifications/LFS180.pdf)
+
+### Introduction to DevOps and Site Reliability Engineering (LFS162)
+[View certification](linux-foundation-certifications/certifications/LFS162.pdf)
