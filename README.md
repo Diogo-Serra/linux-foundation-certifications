@@ -14,3 +14,6 @@ My Linux Foundation certifications and course completion badges.
 
 ### Introduction to DevOps and Site Reliability Engineering (LFS162)
 [View certification](linux-foundation-certifications/certifications/LFS162.pdf)
+
+### Introduction to Kubernetes (LFS158)
+[View certification](linux-foundation-certifications/certifications/LFS158.pdf)
